@@ -1,0 +1,15 @@
+body {
+    text-align:center
+}
+h1 {
+    color:rgb(255, 0, 230);
+}
+h2 {color:green;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid blue;
+    height: 30%;
+    width: 30%;
+}
